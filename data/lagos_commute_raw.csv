@@ -1,0 +1,1001 @@
+User_ID,Home_Hub,Work_Hub,Mode,Monthly_Income,Is_Rainy_Day,Daily_Commute_Cost,Daily_Time_Mins,Sleep_Debt_Hours
+LOS-0000,Ikorodu,Victoria Island,Danfo,290934,1,5400.0,330,3.0
+LOS-0001,Surulere,Victoria Island,Danfo,75844,0,1800.0,120,1.5
+LOS-0002,Egbeda,Victoria Island,Private Car,696686,1,18200.0,330,3.0
+LOS-0003,Egbeda,Victoria Island,Private Car,373098,0,14000.0,240,3.0
+LOS-0004,Surulere,Victoria Island,Private Car,731675,0,8000.0,120,1.5
+LOS-0005,Egbeda,Ikeja,Private Car,527547,0,6000.0,240,3.0
+LOS-0006,Egbeda,Victoria Island,BRT,82790,1,1960.0,330,3.0
+LOS-0007,Egbeda,Ikeja,Private Car,587552,0,6000.0,240,3.0
+LOS-0008,Ikorodu,Victoria Island,Danfo,704257,1,5400.0,330,3.0
+LOS-0009,Ikorodu,Victoria Island,Danfo,264031,0,3600.0,240,3.0
+LOS-0010,Egbeda,Ikeja,Private Car,796850,1,7800.0,330,3.0
+LOS-0011,Egbeda,Ikeja,Private Car,517711,1,7800.0,330,3.0
+LOS-0012,Ikorodu,Victoria Island,Private Car,822583,1,20280.0,330,3.0
+LOS-0013,Surulere,Victoria Island,Private Car,710124,0,8000.0,120,1.5
+LOS-0014,Egbeda,Victoria Island,Private Car,609737,0,14000.0,240,3.0
+LOS-0015,Egbeda,Ikeja,Danfo,80242,0,1600.0,240,3.0
+LOS-0016,Surulere,Victoria Island,Private Car,847246,0,8000.0,120,1.5
+LOS-0017,Ikorodu,Victoria Island,Danfo,363846,0,3600.0,240,3.0
+LOS-0018,Ikorodu,Ikeja,Danfo,78832,0,2400.0,240,3.0
+LOS-0019,Ikorodu,Victoria Island,Danfo,73909,0,3600.0,240,3.0
+LOS-0020,Egbeda,Ikeja,Private Car,219020,0,6000.0,240,3.0
+LOS-0021,Surulere,Victoria Island,Private Car,483198,0,8000.0,120,1.5
+LOS-0022,Surulere,Victoria Island,Private Car,800543,0,8000.0,120,1.5
+LOS-0023,Ikorodu,Ikeja,Danfo,785157,0,2400.0,240,3.0
+LOS-0024,Ikorodu,Victoria Island,Private Car,677155,0,15600.0,240,3.0
+LOS-0025,Ikorodu,Victoria Island,Private Car,605700,0,15600.0,240,3.0
+LOS-0026,Ikorodu,Victoria Island,Private Car,715216,1,20280.0,330,3.0
+LOS-0027,Surulere,Ikeja,Danfo,550827,0,1800.0,120,1.5
+LOS-0028,Ikorodu,Victoria Island,Private Car,789133,0,15600.0,240,3.0
+LOS-0029,Surulere,Ikeja,Private Car,745358,0,4800.0,120,1.5
+LOS-0030,Ikorodu,Victoria Island,Danfo,158447,1,5400.0,330,3.0
+LOS-0031,Surulere,Ikeja,BRT,733900,0,1140.0,120,1.5
+LOS-0032,Egbeda,Victoria Island,Danfo,805954,0,3200.0,240,3.0
+LOS-0033,Surulere,Victoria Island,Danfo,78005,0,1800.0,120,1.5
+LOS-0034,Surulere,Victoria Island,Private Car,577623,0,8000.0,120,1.5
+LOS-0035,Ikorodu,Ikeja,BRT,86228,0,1500.0,240,3.0
+LOS-0036,Egbeda,Victoria Island,Private Car,732088,0,14000.0,240,3.0
+LOS-0037,Surulere,Ikeja,BRT,266004,0,1140.0,120,1.5
+LOS-0038,Egbeda,Victoria Island,Private Car,643464,0,14000.0,240,3.0
+LOS-0039,Egbeda,Victoria Island,Danfo,95480,0,3200.0,240,3.0
+LOS-0040,Egbeda,Ikeja,Danfo,205066,1,2400.0,330,3.0
+LOS-0041,Ikorodu,Ikeja,Private Car,599081,1,12480.0,330,3.0
+LOS-0042,Surulere,Ikeja,Private Car,787724,0,4800.0,120,1.5
+LOS-0043,Egbeda,Victoria Island,Danfo,98727,1,4800.0,330,3.0
+LOS-0044,Surulere,Ikeja,BRT,279958,0,1140.0,120,1.5
+LOS-0045,Surulere,Victoria Island,Private Car,823525,1,10400.0,210,1.5
+LOS-0046,Ikorodu,Ikeja,BRT,784830,0,1500.0,240,3.0
+LOS-0047,Ikorodu,Victoria Island,BRT,183297,0,2200.0,240,3.0
+LOS-0048,Surulere,Ikeja,Private Car,807603,0,4800.0,120,1.5
+LOS-0049,Egbeda,Ikeja,Danfo,155944,0,1600.0,240,3.0
+LOS-0050,Egbeda,Victoria Island,Danfo,297519,0,3200.0,240,3.0
+LOS-0051,Ikorodu,Ikeja,BRT,802856,0,1500.0,240,3.0
+LOS-0052,Ikorodu,Ikeja,Danfo,260692,0,2400.0,240,3.0
+LOS-0053,Surulere,Ikeja,Danfo,522512,0,1800.0,120,1.5
+LOS-0054,Egbeda,Ikeja,Private Car,406471,0,6000.0,240,3.0
+LOS-0055,Egbeda,Victoria Island,Private Car,370119,0,14000.0,240,3.0
+LOS-0056,Surulere,Victoria Island,BRT,97318,0,1140.0,120,1.5
+LOS-0057,Ikorodu,Victoria Island,Danfo,353817,0,3600.0,240,3.0
+LOS-0058,Ikorodu,Victoria Island,Danfo,256852,0,3600.0,240,3.0
+LOS-0059,Ikorodu,Ikeja,Private Car,637520,0,9600.0,240,3.0
+LOS-0060,Ikorodu,Ikeja,Danfo,98782,1,3600.0,330,3.0
+LOS-0061,Ikorodu,Ikeja,Private Car,575013,0,9600.0,240,3.0
+LOS-0062,Ikorodu,Victoria Island,BRT,820439,0,2200.0,240,3.0
+LOS-0063,Surulere,Ikeja,BRT,369716,1,1140.0,210,1.5
+LOS-0064,Egbeda,Victoria Island,Private Car,576552,0,14000.0,240,3.0
+LOS-0065,Egbeda,Victoria Island,Private Car,613559,1,18200.0,330,3.0
+LOS-0066,Ikorodu,Victoria Island,Danfo,86571,1,5400.0,330,3.0
+LOS-0067,Egbeda,Victoria Island,BRT,281589,0,1960.0,240,3.0
+LOS-0068,Egbeda,Victoria Island,Danfo,700469,0,3200.0,240,3.0
+LOS-0069,Egbeda,Ikeja,Private Car,484062,0,6000.0,240,3.0
+LOS-0070,Egbeda,Victoria Island,Danfo,99237,0,3200.0,240,3.0
+LOS-0071,Egbeda,Ikeja,Private Car,506392,0,6000.0,240,3.0
+LOS-0072,Egbeda,Victoria Island,BRT,756487,0,1960.0,240,3.0
+LOS-0073,Egbeda,Ikeja,Private Car,826984,0,6000.0,240,3.0
+LOS-0074,Ikorodu,Ikeja,Danfo,168069,1,3600.0,330,3.0
+LOS-0075,Egbeda,Victoria Island,Danfo,297948,0,3200.0,240,3.0
+LOS-0076,Surulere,Victoria Island,BRT,698245,1,1140.0,210,1.5
+LOS-0077,Egbeda,Ikeja,Private Car,795252,0,6000.0,240,3.0
+LOS-0078,Surulere,Victoria Island,Danfo,218970,0,1800.0,120,1.5
+LOS-0079,Egbeda,Victoria Island,BRT,350816,1,1960.0,330,3.0
+LOS-0080,Egbeda,Victoria Island,Danfo,79563,1,4800.0,330,3.0
+LOS-0081,Ikorodu,Ikeja,Danfo,236318,1,3600.0,330,3.0
+LOS-0082,Ikorodu,Ikeja,Danfo,90373,0,2400.0,240,3.0
+LOS-0083,Egbeda,Ikeja,Danfo,99459,0,1600.0,240,3.0
+LOS-0084,Ikorodu,Ikeja,Private Car,771913,0,9600.0,240,3.0
+LOS-0085,Surulere,Ikeja,Private Car,793481,0,4800.0,120,1.5
+LOS-0086,Egbeda,Victoria Island,BRT,83229,0,1960.0,240,3.0
+LOS-0087,Ikorodu,Ikeja,BRT,285120,0,1500.0,240,3.0
+LOS-0088,Egbeda,Ikeja,Private Car,711804,0,6000.0,240,3.0
+LOS-0089,Egbeda,Ikeja,Private Car,472051,0,6000.0,240,3.0
+LOS-0090,Egbeda,Victoria Island,Danfo,90365,0,3200.0,240,3.0
+LOS-0091,Egbeda,Ikeja,Danfo,172430,0,1600.0,240,3.0
+LOS-0092,Ikorodu,Ikeja,Danfo,80141,0,2400.0,240,3.0
+LOS-0093,Ikorodu,Victoria Island,Private Car,397205,0,15600.0,240,3.0
+LOS-0094,Egbeda,Victoria Island,Danfo,89730,0,3200.0,240,3.0
+LOS-0095,Egbeda,Ikeja,BRT,292060,0,900.0,240,3.0
+LOS-0096,Ikorodu,Victoria Island,Private Car,537430,0,15600.0,240,3.0
+LOS-0097,Surulere,Ikeja,Private Car,803870,0,4800.0,120,1.5
+LOS-0098,Surulere,Victoria Island,Private Car,453356,0,8000.0,120,1.5
+LOS-0099,Surulere,Victoria Island,Private Car,409481,0,8000.0,120,1.5
+LOS-0100,Surulere,Victoria Island,Danfo,70559,0,1800.0,120,1.5
+LOS-0101,Surulere,Ikeja,Danfo,75474,0,1800.0,120,1.5
+LOS-0102,Egbeda,Ikeja,Danfo,210429,0,1600.0,240,3.0
+LOS-0103,Egbeda,Ikeja,Danfo,93710,1,2400.0,330,3.0
+LOS-0104,Surulere,Ikeja,Private Car,607590,1,6240.0,210,1.5
+LOS-0105,Ikorodu,Victoria Island,BRT,212879,1,2200.0,330,3.0
+LOS-0106,Egbeda,Victoria Island,Private Car,402150,0,14000.0,240,3.0
+LOS-0107,Ikorodu,Ikeja,Private Car,295492,0,9600.0,240,3.0
+LOS-0108,Surulere,Ikeja,Private Car,493685,1,6240.0,210,1.5
+LOS-0109,Surulere,Ikeja,Private Car,459247,0,4800.0,120,1.5
+LOS-0110,Ikorodu,Victoria Island,Private Car,689612,1,20280.0,330,3.0
+LOS-0111,Ikorodu,Ikeja,Private Car,502651,0,9600.0,240,3.0
+LOS-0112,Ikorodu,Victoria Island,BRT,798874,0,2200.0,240,3.0
+LOS-0113,Ikorodu,Ikeja,Private Car,846023,1,12480.0,330,3.0
+LOS-0114,Ikorodu,Ikeja,Private Car,657711,1,12480.0,330,3.0
+LOS-0115,Egbeda,Victoria Island,Private Car,614595,0,14000.0,240,3.0
+LOS-0116,Surulere,Ikeja,Private Car,523837,0,4800.0,120,1.5
+LOS-0117,Surulere,Ikeja,Danfo,594701,1,2700.0,210,1.5
+LOS-0118,Surulere,Victoria Island,Private Car,698150,1,10400.0,210,1.5
+LOS-0119,Egbeda,Victoria Island,Private Car,604070,1,18200.0,330,3.0
+LOS-0120,Egbeda,Victoria Island,Danfo,164838,0,3200.0,240,3.0
+LOS-0121,Ikorodu,Victoria Island,Private Car,473886,0,15600.0,240,3.0
+LOS-0122,Ikorodu,Ikeja,Private Car,685646,0,9600.0,240,3.0
+LOS-0123,Ikorodu,Ikeja,BRT,690472,0,1500.0,240,3.0
+LOS-0124,Egbeda,Victoria Island,Private Car,779665,0,14000.0,240,3.0
+LOS-0125,Surulere,Ikeja,BRT,426325,0,1140.0,120,1.5
+LOS-0126,Surulere,Victoria Island,Private Car,698266,0,8000.0,120,1.5
+LOS-0127,Egbeda,Victoria Island,Private Car,366595,0,14000.0,240,3.0
+LOS-0128,Egbeda,Ikeja,Private Car,426432,0,6000.0,240,3.0
+LOS-0129,Egbeda,Ikeja,Danfo,837231,0,1600.0,240,3.0
+LOS-0130,Ikorodu,Ikeja,Private Car,550776,0,9600.0,240,3.0
+LOS-0131,Egbeda,Victoria Island,Private Car,611196,0,14000.0,240,3.0
+LOS-0132,Surulere,Ikeja,Danfo,85900,0,1800.0,120,1.5
+LOS-0133,Egbeda,Victoria Island,Private Car,752069,0,14000.0,240,3.0
+LOS-0134,Ikorodu,Victoria Island,Danfo,168264,1,5400.0,330,3.0
+LOS-0135,Surulere,Victoria Island,Private Car,596815,0,8000.0,120,1.5
+LOS-0136,Ikorodu,Ikeja,Danfo,210451,0,2400.0,240,3.0
+LOS-0137,Egbeda,Ikeja,Private Car,823160,0,6000.0,240,3.0
+LOS-0138,Surulere,Ikeja,Danfo,72336,1,2700.0,210,1.5
+LOS-0139,Surulere,Ikeja,Private Car,232581,0,4800.0,120,1.5
+LOS-0140,Egbeda,Victoria Island,Private Car,607355,0,14000.0,240,3.0
+LOS-0141,Ikorodu,Ikeja,Private Car,261393,0,9600.0,240,3.0
+LOS-0142,Surulere,Victoria Island,Private Car,783776,0,8000.0,120,1.5
+LOS-0143,Surulere,Ikeja,BRT,87255,0,1140.0,120,1.5
+LOS-0144,Ikorodu,Ikeja,BRT,786770,0,1500.0,240,3.0
+LOS-0145,Ikorodu,Ikeja,Private Car,576238,0,9600.0,240,3.0
+LOS-0146,Egbeda,Ikeja,Private Car,491514,1,7800.0,330,3.0
+LOS-0147,Egbeda,Ikeja,BRT,314407,1,900.0,330,3.0
+LOS-0148,Egbeda,Ikeja,Private Car,789850,0,6000.0,240,3.0
+LOS-0149,Surulere,Victoria Island,Private Car,625642,0,8000.0,120,1.5
+LOS-0150,Egbeda,Ikeja,BRT,600808,0,900.0,240,3.0
+LOS-0151,Ikorodu,Ikeja,BRT,246187,0,1500.0,240,3.0
+LOS-0152,Surulere,Ikeja,Private Car,817063,1,6240.0,210,1.5
+LOS-0153,Egbeda,Ikeja,Danfo,81491,0,1600.0,240,3.0
+LOS-0154,Egbeda,Victoria Island,Danfo,211053,0,3200.0,240,3.0
+LOS-0155,Egbeda,Victoria Island,Private Car,783184,0,14000.0,240,3.0
+LOS-0156,Ikorodu,Victoria Island,Private Car,355138,1,20280.0,330,3.0
+LOS-0157,Surulere,Ikeja,Private Car,491971,0,4800.0,120,1.5
+LOS-0158,Surulere,Victoria Island,Private Car,803534,0,8000.0,120,1.5
+LOS-0159,Egbeda,Victoria Island,Private Car,718828,0,14000.0,240,3.0
+LOS-0160,Surulere,Ikeja,BRT,466403,0,1140.0,120,1.5
+LOS-0161,Surulere,Ikeja,BRT,234198,1,1140.0,210,1.5
+LOS-0162,Ikorodu,Victoria Island,Danfo,75168,0,3600.0,240,3.0
+LOS-0163,Surulere,Ikeja,Private Car,463089,0,4800.0,120,1.5
+LOS-0164,Surulere,Victoria Island,BRT,358819,0,1140.0,120,1.5
+LOS-0165,Egbeda,Ikeja,Private Car,405117,0,6000.0,240,3.0
+LOS-0166,Ikorodu,Ikeja,Danfo,343485,0,2400.0,240,3.0
+LOS-0167,Ikorodu,Ikeja,Private Car,703971,0,9600.0,240,3.0
+LOS-0168,Surulere,Ikeja,BRT,677762,0,1140.0,120,1.5
+LOS-0169,Surulere,Victoria Island,BRT,285794,0,1140.0,120,1.5
+LOS-0170,Ikorodu,Victoria Island,Private Car,459569,0,15600.0,240,3.0
+LOS-0171,Surulere,Victoria Island,Danfo,81984,0,1800.0,120,1.5
+LOS-0172,Surulere,Victoria Island,Private Car,698834,0,8000.0,120,1.5
+LOS-0173,Ikorodu,Victoria Island,Danfo,94475,1,5400.0,330,3.0
+LOS-0174,Surulere,Victoria Island,Private Car,588574,0,8000.0,120,1.5
+LOS-0175,Surulere,Victoria Island,BRT,347211,0,1140.0,120,1.5
+LOS-0176,Surulere,Victoria Island,Private Car,844725,1,10400.0,210,1.5
+LOS-0177,Ikorodu,Ikeja,Danfo,213369,1,3600.0,330,3.0
+LOS-0178,Egbeda,Ikeja,Private Car,606181,0,6000.0,240,3.0
+LOS-0179,Egbeda,Ikeja,Danfo,88768,0,1600.0,240,3.0
+LOS-0180,Surulere,Ikeja,Private Car,607758,0,4800.0,120,1.5
+LOS-0181,Surulere,Victoria Island,BRT,172986,0,1140.0,120,1.5
+LOS-0182,Egbeda,Victoria Island,Danfo,92583,0,3200.0,240,3.0
+LOS-0183,Ikorodu,Victoria Island,Private Car,559154,0,15600.0,240,3.0
+LOS-0184,Ikorodu,Ikeja,BRT,458011,0,1500.0,240,3.0
+LOS-0185,Ikorodu,Ikeja,BRT,727629,0,1500.0,240,3.0
+LOS-0186,Surulere,Victoria Island,Private Car,682766,0,8000.0,120,1.5
+LOS-0187,Surulere,Ikeja,Danfo,77147,0,1800.0,120,1.5
+LOS-0188,Ikorodu,Ikeja,Private Car,371477,0,9600.0,240,3.0
+LOS-0189,Surulere,Victoria Island,Private Car,653215,0,8000.0,120,1.5
+LOS-0190,Surulere,Victoria Island,Private Car,548900,0,8000.0,120,1.5
+LOS-0191,Ikorodu,Ikeja,Private Car,509737,0,9600.0,240,3.0
+LOS-0192,Ikorodu,Ikeja,BRT,310167,1,1500.0,330,3.0
+LOS-0193,Egbeda,Victoria Island,Private Car,480901,0,14000.0,240,3.0
+LOS-0194,Ikorodu,Ikeja,Private Car,519881,0,9600.0,240,3.0
+LOS-0195,Ikorodu,Victoria Island,Danfo,95336,0,3600.0,240,3.0
+LOS-0196,Ikorodu,Victoria Island,BRT,739820,0,2200.0,240,3.0
+LOS-0197,Ikorodu,Victoria Island,Danfo,831448,0,3600.0,240,3.0
+LOS-0198,Egbeda,Ikeja,Danfo,96275,0,1600.0,240,3.0
+LOS-0199,Surulere,Ikeja,Private Car,481289,0,4800.0,120,1.5
+LOS-0200,Surulere,Ikeja,Private Car,665709,1,6240.0,210,1.5
+LOS-0201,Ikorodu,Victoria Island,Danfo,181046,1,5400.0,330,3.0
+LOS-0202,Ikorodu,Ikeja,Private Car,432319,0,9600.0,240,3.0
+LOS-0203,Ikorodu,Victoria Island,BRT,328342,0,2200.0,240,3.0
+LOS-0204,Ikorodu,Ikeja,Danfo,200905,0,2400.0,240,3.0
+LOS-0205,Egbeda,Victoria Island,Private Car,654001,1,18200.0,330,3.0
+LOS-0206,Surulere,Victoria Island,Private Car,473513,0,8000.0,120,1.5
+LOS-0207,Egbeda,Ikeja,Danfo,83933,0,1600.0,240,3.0
+LOS-0208,Egbeda,Ikeja,Danfo,729966,0,1600.0,240,3.0
+LOS-0209,Surulere,Ikeja,BRT,230821,0,1140.0,120,1.5
+LOS-0210,Ikorodu,Victoria Island,Private Car,699457,0,15600.0,240,3.0
+LOS-0211,Ikorodu,Victoria Island,Private Car,712563,1,20280.0,330,3.0
+LOS-0212,Egbeda,Ikeja,BRT,696334,0,900.0,240,3.0
+LOS-0213,Egbeda,Victoria Island,Danfo,250915,0,3200.0,240,3.0
+LOS-0214,Ikorodu,Victoria Island,Danfo,99134,0,3600.0,240,3.0
+LOS-0215,Surulere,Victoria Island,Private Car,809094,0,8000.0,120,1.5
+LOS-0216,Surulere,Ikeja,Danfo,88730,0,1800.0,120,1.5
+LOS-0217,Surulere,Ikeja,Private Car,559040,1,6240.0,210,1.5
+LOS-0218,Egbeda,Ikeja,Danfo,81399,0,1600.0,240,3.0
+LOS-0219,Ikorodu,Victoria Island,Private Car,461586,0,15600.0,240,3.0
+LOS-0220,Surulere,Victoria Island,Private Car,376715,1,10400.0,210,1.5
+LOS-0221,Ikorodu,Victoria Island,Private Car,711617,0,15600.0,240,3.0
+LOS-0222,Surulere,Victoria Island,BRT,523545,0,1140.0,120,1.5
+LOS-0223,Surulere,Victoria Island,Danfo,79710,1,2700.0,210,1.5
+LOS-0224,Egbeda,Victoria Island,Private Car,531814,0,14000.0,240,3.0
+LOS-0225,Egbeda,Ikeja,Danfo,654416,1,2400.0,330,3.0
+LOS-0226,Surulere,Victoria Island,Danfo,72945,0,1800.0,120,1.5
+LOS-0227,Ikorodu,Victoria Island,BRT,237136,0,2200.0,240,3.0
+LOS-0228,Ikorodu,Ikeja,Private Car,499345,0,9600.0,240,3.0
+LOS-0229,Surulere,Ikeja,Private Car,630415,0,4800.0,120,1.5
+LOS-0230,Ikorodu,Ikeja,Private Car,746322,0,9600.0,240,3.0
+LOS-0231,Surulere,Victoria Island,Danfo,753706,0,1800.0,120,1.5
+LOS-0232,Ikorodu,Ikeja,Private Car,389744,1,12480.0,330,3.0
+LOS-0233,Surulere,Ikeja,Private Car,658734,0,4800.0,120,1.5
+LOS-0234,Ikorodu,Victoria Island,BRT,489592,0,2200.0,240,3.0
+LOS-0235,Egbeda,Ikeja,Private Car,488915,0,6000.0,240,3.0
+LOS-0236,Egbeda,Victoria Island,Private Car,581721,0,14000.0,240,3.0
+LOS-0237,Ikorodu,Ikeja,Private Car,752669,1,12480.0,330,3.0
+LOS-0238,Ikorodu,Ikeja,BRT,287979,0,1500.0,240,3.0
+LOS-0239,Ikorodu,Victoria Island,BRT,95821,1,2200.0,330,3.0
+LOS-0240,Ikorodu,Victoria Island,Danfo,190458,0,3600.0,240,3.0
+LOS-0241,Egbeda,Victoria Island,Danfo,287580,0,3200.0,240,3.0
+LOS-0242,Surulere,Victoria Island,BRT,172728,0,1140.0,120,1.5
+LOS-0243,Surulere,Ikeja,Private Car,492507,0,4800.0,120,1.5
+LOS-0244,Ikorodu,Victoria Island,Private Car,628087,0,15600.0,240,3.0
+LOS-0245,Surulere,Victoria Island,BRT,482363,0,1140.0,120,1.5
+LOS-0246,Surulere,Ikeja,Danfo,89158,1,2700.0,210,1.5
+LOS-0247,Ikorodu,Ikeja,Private Car,478898,0,9600.0,240,3.0
+LOS-0248,Surulere,Victoria Island,Private Car,807841,0,8000.0,120,1.5
+LOS-0249,Egbeda,Victoria Island,Private Car,484838,0,14000.0,240,3.0
+LOS-0250,Ikorodu,Victoria Island,Danfo,74228,0,3600.0,240,3.0
+LOS-0251,Egbeda,Ikeja,Private Car,546852,0,6000.0,240,3.0
+LOS-0252,Ikorodu,Ikeja,Private Car,570107,0,9600.0,240,3.0
+LOS-0253,Surulere,Ikeja,BRT,662834,0,1140.0,120,1.5
+LOS-0254,Ikorodu,Ikeja,Danfo,83501,0,2400.0,240,3.0
+LOS-0255,Surulere,Ikeja,BRT,647995,0,1140.0,120,1.5
+LOS-0256,Surulere,Ikeja,Private Car,708316,1,6240.0,210,1.5
+LOS-0257,Ikorodu,Victoria Island,Private Car,625916,0,15600.0,240,3.0
+LOS-0258,Egbeda,Victoria Island,Private Car,403858,1,18200.0,330,3.0
+LOS-0259,Surulere,Victoria Island,Private Car,785238,1,10400.0,210,1.5
+LOS-0260,Ikorodu,Ikeja,BRT,274190,0,1500.0,240,3.0
+LOS-0261,Egbeda,Ikeja,Danfo,744411,0,1600.0,240,3.0
+LOS-0262,Surulere,Ikeja,BRT,692326,1,1140.0,210,1.5
+LOS-0263,Ikorodu,Ikeja,Private Car,833073,1,12480.0,330,3.0
+LOS-0264,Egbeda,Victoria Island,BRT,261970,0,1960.0,240,3.0
+LOS-0265,Ikorodu,Victoria Island,Danfo,99630,0,3600.0,240,3.0
+LOS-0266,Egbeda,Ikeja,BRT,314560,1,900.0,330,3.0
+LOS-0267,Surulere,Ikeja,Private Car,499734,0,4800.0,120,1.5
+LOS-0268,Ikorodu,Victoria Island,Private Car,718221,0,15600.0,240,3.0
+LOS-0269,Egbeda,Ikeja,Private Car,379182,0,6000.0,240,3.0
+LOS-0270,Egbeda,Ikeja,BRT,642527,0,900.0,240,3.0
+LOS-0271,Surulere,Ikeja,BRT,93014,0,1140.0,120,1.5
+LOS-0272,Ikorodu,Victoria Island,Private Car,554188,0,15600.0,240,3.0
+LOS-0273,Surulere,Victoria Island,Private Car,847034,0,8000.0,120,1.5
+LOS-0274,Surulere,Victoria Island,BRT,642118,1,1140.0,210,1.5
+LOS-0275,Egbeda,Ikeja,Private Car,813513,0,6000.0,240,3.0
+LOS-0276,Egbeda,Victoria Island,BRT,81111,1,1960.0,330,3.0
+LOS-0277,Ikorodu,Victoria Island,Private Car,693126,0,15600.0,240,3.0
+LOS-0278,Ikorodu,Victoria Island,Danfo,651086,0,3600.0,240,3.0
+LOS-0279,Egbeda,Ikeja,Danfo,740195,0,1600.0,240,3.0
+LOS-0280,Ikorodu,Ikeja,Danfo,303107,1,3600.0,330,3.0
+LOS-0281,Egbeda,Ikeja,Danfo,262289,0,1600.0,240,3.0
+LOS-0282,Ikorodu,Victoria Island,Private Car,473976,0,15600.0,240,3.0
+LOS-0283,Egbeda,Ikeja,BRT,535610,1,900.0,330,3.0
+LOS-0284,Surulere,Victoria Island,BRT,790475,1,1140.0,210,1.5
+LOS-0285,Ikorodu,Victoria Island,Private Car,524217,0,15600.0,240,3.0
+LOS-0286,Egbeda,Ikeja,Private Car,444072,0,6000.0,240,3.0
+LOS-0287,Egbeda,Victoria Island,BRT,663609,0,1960.0,240,3.0
+LOS-0288,Surulere,Ikeja,Private Car,649526,1,6240.0,210,1.5
+LOS-0289,Egbeda,Ikeja,Private Car,492600,0,6000.0,240,3.0
+LOS-0290,Ikorodu,Ikeja,Danfo,80066,0,2400.0,240,3.0
+LOS-0291,Egbeda,Ikeja,Danfo,73230,0,1600.0,240,3.0
+LOS-0292,Ikorodu,Ikeja,Private Car,655260,1,12480.0,330,3.0
+LOS-0293,Surulere,Victoria Island,Private Car,326752,0,8000.0,120,1.5
+LOS-0294,Ikorodu,Victoria Island,BRT,452467,0,2200.0,240,3.0
+LOS-0295,Ikorodu,Victoria Island,Danfo,91011,0,3600.0,240,3.0
+LOS-0296,Egbeda,Victoria Island,BRT,83480,0,1960.0,240,3.0
+LOS-0297,Ikorodu,Victoria Island,Private Car,798304,1,20280.0,330,3.0
+LOS-0298,Surulere,Victoria Island,Private Car,450293,0,8000.0,120,1.5
+LOS-0299,Surulere,Victoria Island,BRT,785695,1,1140.0,210,1.5
+LOS-0300,Ikorodu,Ikeja,Danfo,70658,1,3600.0,330,3.0
+LOS-0301,Ikorodu,Victoria Island,Private Car,502989,0,15600.0,240,3.0
+LOS-0302,Ikorodu,Victoria Island,Private Car,392913,0,15600.0,240,3.0
+LOS-0303,Surulere,Victoria Island,BRT,460729,0,1140.0,120,1.5
+LOS-0304,Surulere,Ikeja,BRT,378311,1,1140.0,210,1.5
+LOS-0305,Ikorodu,Ikeja,Private Car,753733,0,9600.0,240,3.0
+LOS-0306,Ikorodu,Victoria Island,Danfo,361011,0,3600.0,240,3.0
+LOS-0307,Ikorodu,Ikeja,Private Car,426804,0,9600.0,240,3.0
+LOS-0308,Egbeda,Victoria Island,Private Car,675386,0,14000.0,240,3.0
+LOS-0309,Ikorodu,Ikeja,BRT,246904,1,1500.0,330,3.0
+LOS-0310,Egbeda,Ikeja,Private Car,600908,0,6000.0,240,3.0
+LOS-0311,Ikorodu,Ikeja,Danfo,78867,0,2400.0,240,3.0
+LOS-0312,Ikorodu,Victoria Island,BRT,459851,0,2200.0,240,3.0
+LOS-0313,Ikorodu,Victoria Island,BRT,750036,0,2200.0,240,3.0
+LOS-0314,Surulere,Ikeja,Private Car,685087,1,6240.0,210,1.5
+LOS-0315,Egbeda,Victoria Island,Private Car,401587,1,18200.0,330,3.0
+LOS-0316,Egbeda,Victoria Island,Danfo,449053,0,3200.0,240,3.0
+LOS-0317,Ikorodu,Ikeja,Danfo,154462,0,2400.0,240,3.0
+LOS-0318,Egbeda,Ikeja,Private Car,604858,1,7800.0,330,3.0
+LOS-0319,Surulere,Ikeja,Private Car,759714,1,6240.0,210,1.5
+LOS-0320,Surulere,Ikeja,Danfo,509446,1,2700.0,210,1.5
+LOS-0321,Surulere,Ikeja,Danfo,185212,1,2700.0,210,1.5
+LOS-0322,Egbeda,Ikeja,BRT,90949,1,900.0,330,3.0
+LOS-0323,Ikorodu,Victoria Island,Danfo,302275,0,3600.0,240,3.0
+LOS-0324,Ikorodu,Victoria Island,Danfo,72653,1,5400.0,330,3.0
+LOS-0325,Surulere,Ikeja,Danfo,333146,1,2700.0,210,1.5
+LOS-0326,Surulere,Ikeja,Danfo,151998,0,1800.0,120,1.5
+LOS-0327,Surulere,Victoria Island,Danfo,319306,0,1800.0,120,1.5
+LOS-0328,Surulere,Victoria Island,BRT,642519,0,1140.0,120,1.5
+LOS-0329,Egbeda,Victoria Island,Danfo,172643,0,3200.0,240,3.0
+LOS-0330,Egbeda,Victoria Island,Private Car,528575,0,14000.0,240,3.0
+LOS-0331,Egbeda,Victoria Island,Private Car,163195,1,18200.0,330,3.0
+LOS-0332,Ikorodu,Victoria Island,BRT,798529,0,2200.0,240,3.0
+LOS-0333,Egbeda,Victoria Island,Private Car,310390,0,14000.0,240,3.0
+LOS-0334,Ikorodu,Victoria Island,BRT,71431,1,2200.0,330,3.0
+LOS-0335,Surulere,Victoria Island,Danfo,731787,1,2700.0,210,1.5
+LOS-0336,Ikorodu,Ikeja,Danfo,220724,0,2400.0,240,3.0
+LOS-0337,Egbeda,Victoria Island,Private Car,808844,0,14000.0,240,3.0
+LOS-0338,Ikorodu,Ikeja,Private Car,552385,1,12480.0,330,3.0
+LOS-0339,Ikorodu,Ikeja,Private Car,560214,0,9600.0,240,3.0
+LOS-0340,Egbeda,Victoria Island,Private Car,604722,0,14000.0,240,3.0
+LOS-0341,Egbeda,Victoria Island,Private Car,429844,0,14000.0,240,3.0
+LOS-0342,Ikorodu,Victoria Island,Danfo,95640,1,5400.0,330,3.0
+LOS-0343,Egbeda,Ikeja,Danfo,77415,0,1600.0,240,3.0
+LOS-0344,Egbeda,Victoria Island,Private Car,836701,0,14000.0,240,3.0
+LOS-0345,Ikorodu,Ikeja,Private Car,597707,0,9600.0,240,3.0
+LOS-0346,Surulere,Ikeja,Danfo,277856,0,1800.0,120,1.5
+LOS-0347,Egbeda,Ikeja,BRT,435045,0,900.0,240,3.0
+LOS-0348,Surulere,Ikeja,BRT,92786,0,1140.0,120,1.5
+LOS-0349,Ikorodu,Victoria Island,Private Car,491372,0,15600.0,240,3.0
+LOS-0350,Egbeda,Victoria Island,Private Car,741129,0,14000.0,240,3.0
+LOS-0351,Egbeda,Ikeja,Private Car,375085,0,6000.0,240,3.0
+LOS-0352,Surulere,Victoria Island,Danfo,77886,0,1800.0,120,1.5
+LOS-0353,Ikorodu,Victoria Island,Private Car,829872,0,15600.0,240,3.0
+LOS-0354,Ikorodu,Ikeja,Private Car,805344,0,9600.0,240,3.0
+LOS-0355,Egbeda,Ikeja,BRT,82158,0,900.0,240,3.0
+LOS-0356,Egbeda,Ikeja,Private Car,713693,0,6000.0,240,3.0
+LOS-0357,Surulere,Victoria Island,Private Car,766405,0,8000.0,120,1.5
+LOS-0358,Surulere,Ikeja,BRT,93740,0,1140.0,120,1.5
+LOS-0359,Ikorodu,Victoria Island,Private Car,765328,1,20280.0,330,3.0
+LOS-0360,Ikorodu,Victoria Island,BRT,94619,0,2200.0,240,3.0
+LOS-0361,Egbeda,Ikeja,Private Car,534936,0,6000.0,240,3.0
+LOS-0362,Egbeda,Ikeja,Private Car,785352,0,6000.0,240,3.0
+LOS-0363,Egbeda,Victoria Island,BRT,819111,0,1960.0,240,3.0
+LOS-0364,Egbeda,Ikeja,Private Car,710823,0,6000.0,240,3.0
+LOS-0365,Egbeda,Victoria Island,BRT,78230,0,1960.0,240,3.0
+LOS-0366,Surulere,Victoria Island,BRT,655688,0,1140.0,120,1.5
+LOS-0367,Ikorodu,Ikeja,BRT,95218,0,1500.0,240,3.0
+LOS-0368,Egbeda,Victoria Island,Private Car,533516,1,18200.0,330,3.0
+LOS-0369,Surulere,Victoria Island,BRT,333577,0,1140.0,120,1.5
+LOS-0370,Ikorodu,Ikeja,Private Car,416899,0,9600.0,240,3.0
+LOS-0371,Egbeda,Ikeja,Danfo,315612,1,2400.0,330,3.0
+LOS-0372,Egbeda,Victoria Island,BRT,837921,0,1960.0,240,3.0
+LOS-0373,Surulere,Ikeja,BRT,221940,0,1140.0,120,1.5
+LOS-0374,Surulere,Ikeja,Private Car,513996,0,4800.0,120,1.5
+LOS-0375,Egbeda,Victoria Island,Private Car,664556,0,14000.0,240,3.0
+LOS-0376,Surulere,Ikeja,BRT,71922,0,1140.0,120,1.5
+LOS-0377,Egbeda,Victoria Island,Private Car,579021,0,14000.0,240,3.0
+LOS-0378,Egbeda,Victoria Island,BRT,378952,0,1960.0,240,3.0
+LOS-0379,Surulere,Ikeja,Private Car,500912,0,4800.0,120,1.5
+LOS-0380,Egbeda,Ikeja,Private Car,659227,0,6000.0,240,3.0
+LOS-0381,Egbeda,Victoria Island,Private Car,483574,1,18200.0,330,3.0
+LOS-0382,Surulere,Victoria Island,Private Car,761007,0,8000.0,120,1.5
+LOS-0383,Egbeda,Victoria Island,Danfo,454952,1,4800.0,330,3.0
+LOS-0384,Surulere,Victoria Island,BRT,339511,0,1140.0,120,1.5
+LOS-0385,Surulere,Ikeja,Private Car,650564,1,6240.0,210,1.5
+LOS-0386,Ikorodu,Ikeja,BRT,80037,0,1500.0,240,3.0
+LOS-0387,Ikorodu,Victoria Island,BRT,664198,0,2200.0,240,3.0
+LOS-0388,Egbeda,Victoria Island,BRT,289719,1,1960.0,330,3.0
+LOS-0389,Ikorodu,Victoria Island,Danfo,75994,0,3600.0,240,3.0
+LOS-0390,Egbeda,Victoria Island,Danfo,348254,1,4800.0,330,3.0
+LOS-0391,Ikorodu,Victoria Island,BRT,501197,0,2200.0,240,3.0
+LOS-0392,Egbeda,Ikeja,BRT,422332,0,900.0,240,3.0
+LOS-0393,Egbeda,Victoria Island,Private Car,626915,0,14000.0,240,3.0
+LOS-0394,Egbeda,Ikeja,BRT,539249,0,900.0,240,3.0
+LOS-0395,Ikorodu,Ikeja,BRT,724747,0,1500.0,240,3.0
+LOS-0396,Surulere,Ikeja,Danfo,489000,0,1800.0,120,1.5
+LOS-0397,Ikorodu,Ikeja,BRT,293571,1,1500.0,330,3.0
+LOS-0398,Egbeda,Victoria Island,Private Car,570596,1,18200.0,330,3.0
+LOS-0399,Egbeda,Ikeja,Danfo,254095,1,2400.0,330,3.0
+LOS-0400,Surulere,Victoria Island,Danfo,86492,0,1800.0,120,1.5
+LOS-0401,Surulere,Ikeja,Danfo,82299,0,1800.0,120,1.5
+LOS-0402,Ikorodu,Ikeja,Private Car,298693,0,9600.0,240,3.0
+LOS-0403,Egbeda,Victoria Island,Danfo,72842,1,4800.0,330,3.0
+LOS-0404,Surulere,Ikeja,BRT,456998,1,1140.0,210,1.5
+LOS-0405,Egbeda,Victoria Island,Private Car,577712,0,14000.0,240,3.0
+LOS-0406,Surulere,Victoria Island,BRT,94542,0,1140.0,120,1.5
+LOS-0407,Ikorodu,Ikeja,Danfo,93977,1,3600.0,330,3.0
+LOS-0408,Ikorodu,Ikeja,Private Car,777372,0,9600.0,240,3.0
+LOS-0409,Surulere,Victoria Island,Danfo,662170,0,1800.0,120,1.5
+LOS-0410,Egbeda,Ikeja,Danfo,82391,1,2400.0,330,3.0
+LOS-0411,Surulere,Victoria Island,Private Car,356839,0,8000.0,120,1.5
+LOS-0412,Ikorodu,Victoria Island,Private Car,805836,0,15600.0,240,3.0
+LOS-0413,Ikorodu,Victoria Island,Private Car,551765,0,15600.0,240,3.0
+LOS-0414,Ikorodu,Ikeja,BRT,275657,0,1500.0,240,3.0
+LOS-0415,Ikorodu,Ikeja,BRT,650943,0,1500.0,240,3.0
+LOS-0416,Ikorodu,Ikeja,BRT,691637,1,1500.0,330,3.0
+LOS-0417,Surulere,Ikeja,Private Car,843047,0,4800.0,120,1.5
+LOS-0418,Ikorodu,Ikeja,Private Car,619056,0,9600.0,240,3.0
+LOS-0419,Ikorodu,Victoria Island,Private Car,611114,0,15600.0,240,3.0
+LOS-0420,Surulere,Victoria Island,Danfo,674453,0,1800.0,120,1.5
+LOS-0421,Ikorodu,Victoria Island,BRT,245934,0,2200.0,240,3.0
+LOS-0422,Egbeda,Victoria Island,Danfo,799689,0,3200.0,240,3.0
+LOS-0423,Surulere,Victoria Island,Private Car,757474,0,8000.0,120,1.5
+LOS-0424,Surulere,Victoria Island,BRT,838510,0,1140.0,120,1.5
+LOS-0425,Ikorodu,Ikeja,Danfo,87787,0,2400.0,240,3.0
+LOS-0426,Surulere,Ikeja,Danfo,323439,0,1800.0,120,1.5
+LOS-0427,Ikorodu,Victoria Island,Danfo,99243,0,3600.0,240,3.0
+LOS-0428,Surulere,Ikeja,Private Car,770971,0,4800.0,120,1.5
+LOS-0429,Ikorodu,Victoria Island,BRT,185425,0,2200.0,240,3.0
+LOS-0430,Egbeda,Ikeja,Danfo,658846,1,2400.0,330,3.0
+LOS-0431,Egbeda,Victoria Island,Danfo,75357,1,4800.0,330,3.0
+LOS-0432,Egbeda,Victoria Island,Danfo,307284,1,4800.0,330,3.0
+LOS-0433,Surulere,Victoria Island,Danfo,337688,0,1800.0,120,1.5
+LOS-0434,Surulere,Victoria Island,Danfo,340913,0,1800.0,120,1.5
+LOS-0435,Surulere,Victoria Island,BRT,306668,0,1140.0,120,1.5
+LOS-0436,Egbeda,Ikeja,Private Car,450845,0,6000.0,240,3.0
+LOS-0437,Ikorodu,Victoria Island,BRT,493522,1,2200.0,330,3.0
+LOS-0438,Surulere,Victoria Island,BRT,645767,0,1140.0,120,1.5
+LOS-0439,Ikorodu,Ikeja,Private Car,651389,1,12480.0,330,3.0
+LOS-0440,Ikorodu,Ikeja,Danfo,95078,0,2400.0,240,3.0
+LOS-0441,Ikorodu,Ikeja,Danfo,286296,0,2400.0,240,3.0
+LOS-0442,Egbeda,Victoria Island,Danfo,210180,1,4800.0,330,3.0
+LOS-0443,Ikorodu,Victoria Island,Private Car,409253,0,15600.0,240,3.0
+LOS-0444,Egbeda,Ikeja,Private Car,722160,1,7800.0,330,3.0
+LOS-0445,Egbeda,Victoria Island,BRT,556004,0,1960.0,240,3.0
+LOS-0446,Egbeda,Victoria Island,Private Car,738244,0,14000.0,240,3.0
+LOS-0447,Egbeda,Ikeja,Private Car,532216,0,6000.0,240,3.0
+LOS-0448,Surulere,Victoria Island,Danfo,333994,0,1800.0,120,1.5
+LOS-0449,Ikorodu,Victoria Island,Danfo,90669,0,3600.0,240,3.0
+LOS-0450,Egbeda,Victoria Island,BRT,637448,0,1960.0,240,3.0
+LOS-0451,Egbeda,Ikeja,Private Car,757938,1,7800.0,330,3.0
+LOS-0452,Surulere,Ikeja,Danfo,221906,1,2700.0,210,1.5
+LOS-0453,Surulere,Victoria Island,Private Car,677835,0,8000.0,120,1.5
+LOS-0454,Egbeda,Ikeja,Danfo,597206,0,1600.0,240,3.0
+LOS-0455,Ikorodu,Ikeja,Danfo,91168,0,2400.0,240,3.0
+LOS-0456,Egbeda,Victoria Island,Private Car,528535,1,18200.0,330,3.0
+LOS-0457,Egbeda,Victoria Island,BRT,723113,0,1960.0,240,3.0
+LOS-0458,Egbeda,Victoria Island,Danfo,271762,1,4800.0,330,3.0
+LOS-0459,Ikorodu,Ikeja,Private Car,441009,1,12480.0,330,3.0
+LOS-0460,Ikorodu,Ikeja,Private Car,680639,0,9600.0,240,3.0
+LOS-0461,Egbeda,Victoria Island,Danfo,95675,1,4800.0,330,3.0
+LOS-0462,Ikorodu,Victoria Island,BRT,428897,0,2200.0,240,3.0
+LOS-0463,Surulere,Ikeja,Private Car,494998,1,6240.0,210,1.5
+LOS-0464,Surulere,Victoria Island,Danfo,85056,1,2700.0,210,1.5
+LOS-0465,Egbeda,Victoria Island,BRT,198474,1,1960.0,330,3.0
+LOS-0466,Surulere,Ikeja,Danfo,93943,0,1800.0,120,1.5
+LOS-0467,Surulere,Ikeja,Private Car,777189,0,4800.0,120,1.5
+LOS-0468,Egbeda,Ikeja,Private Car,567633,0,6000.0,240,3.0
+LOS-0469,Surulere,Victoria Island,Danfo,97984,0,1800.0,120,1.5
+LOS-0470,Surulere,Ikeja,Private Car,367935,0,4800.0,120,1.5
+LOS-0471,Ikorodu,Ikeja,Danfo,264012,0,2400.0,240,3.0
+LOS-0472,Ikorodu,Victoria Island,Danfo,293129,0,3600.0,240,3.0
+LOS-0473,Egbeda,Ikeja,BRT,86969,1,900.0,330,3.0
+LOS-0474,Surulere,Victoria Island,BRT,565830,0,1140.0,120,1.5
+LOS-0475,Ikorodu,Ikeja,Danfo,90949,0,2400.0,240,3.0
+LOS-0476,Surulere,Ikeja,BRT,81681,1,1140.0,210,1.5
+LOS-0477,Ikorodu,Victoria Island,Private Car,378838,0,15600.0,240,3.0
+LOS-0478,Egbeda,Victoria Island,Private Car,496598,1,18200.0,330,3.0
+LOS-0479,Ikorodu,Victoria Island,BRT,174472,0,2200.0,240,3.0
+LOS-0480,Ikorodu,Victoria Island,Danfo,212775,0,3600.0,240,3.0
+LOS-0481,Egbeda,Victoria Island,Private Car,732756,0,14000.0,240,3.0
+LOS-0482,Egbeda,Victoria Island,Danfo,98983,0,3200.0,240,3.0
+LOS-0483,Surulere,Victoria Island,BRT,619075,0,1140.0,120,1.5
+LOS-0484,Egbeda,Ikeja,Private Car,664632,1,7800.0,330,3.0
+LOS-0485,Egbeda,Ikeja,BRT,152755,0,900.0,240,3.0
+LOS-0486,Egbeda,Victoria Island,Private Car,694478,0,14000.0,240,3.0
+LOS-0487,Surulere,Ikeja,Private Car,176449,0,4800.0,120,1.5
+LOS-0488,Egbeda,Ikeja,Danfo,96690,0,1600.0,240,3.0
+LOS-0489,Surulere,Ikeja,Private Car,617597,0,4800.0,120,1.5
+LOS-0490,Ikorodu,Ikeja,Danfo,79596,0,2400.0,240,3.0
+LOS-0491,Surulere,Ikeja,BRT,713142,0,1140.0,120,1.5
+LOS-0492,Egbeda,Ikeja,BRT,743726,0,900.0,240,3.0
+LOS-0493,Surulere,Victoria Island,Private Car,606785,1,10400.0,210,1.5
+LOS-0494,Egbeda,Ikeja,BRT,181630,0,900.0,240,3.0
+LOS-0495,Ikorodu,Ikeja,BRT,629877,1,1500.0,330,3.0
+LOS-0496,Egbeda,Ikeja,Private Car,829654,0,6000.0,240,3.0
+LOS-0497,Egbeda,Ikeja,Danfo,99836,0,1600.0,240,3.0
+LOS-0498,Egbeda,Ikeja,Private Car,514092,1,7800.0,330,3.0
+LOS-0499,Ikorodu,Ikeja,Private Car,201414,0,9600.0,240,3.0
+LOS-0500,Ikorodu,Victoria Island,Danfo,93456,0,3600.0,240,3.0
+LOS-0501,Surulere,Ikeja,Private Car,623638,0,4800.0,120,1.5
+LOS-0502,Surulere,Victoria Island,Danfo,307910,0,1800.0,120,1.5
+LOS-0503,Ikorodu,Ikeja,Private Car,209340,1,12480.0,330,3.0
+LOS-0504,Egbeda,Victoria Island,BRT,548025,1,1960.0,330,3.0
+LOS-0505,Egbeda,Ikeja,Danfo,79409,0,1600.0,240,3.0
+LOS-0506,Egbeda,Victoria Island,Danfo,89616,0,3200.0,240,3.0
+LOS-0507,Egbeda,Ikeja,Danfo,569171,1,2400.0,330,3.0
+LOS-0508,Ikorodu,Ikeja,Private Car,406195,0,9600.0,240,3.0
+LOS-0509,Ikorodu,Victoria Island,Danfo,268274,0,3600.0,240,3.0
+LOS-0510,Surulere,Ikeja,Private Car,711372,0,4800.0,120,1.5
+LOS-0511,Surulere,Ikeja,Danfo,213549,1,2700.0,210,1.5
+LOS-0512,Egbeda,Ikeja,Private Car,839210,0,6000.0,240,3.0
+LOS-0513,Surulere,Victoria Island,Private Car,355808,0,8000.0,120,1.5
+LOS-0514,Surulere,Ikeja,Private Car,843405,1,6240.0,210,1.5
+LOS-0515,Egbeda,Victoria Island,BRT,547261,0,1960.0,240,3.0
+LOS-0516,Egbeda,Victoria Island,BRT,643207,0,1960.0,240,3.0
+LOS-0517,Ikorodu,Victoria Island,BRT,701687,0,2200.0,240,3.0
+LOS-0518,Egbeda,Victoria Island,Private Car,738304,0,14000.0,240,3.0
+LOS-0519,Surulere,Ikeja,BRT,683298,0,1140.0,120,1.5
+LOS-0520,Ikorodu,Ikeja,Danfo,541516,0,2400.0,240,3.0
+LOS-0521,Ikorodu,Victoria Island,BRT,87432,1,2200.0,330,3.0
+LOS-0522,Surulere,Ikeja,Private Car,456971,1,6240.0,210,1.5
+LOS-0523,Egbeda,Victoria Island,Private Car,360906,0,14000.0,240,3.0
+LOS-0524,Ikorodu,Victoria Island,Danfo,799830,0,3600.0,240,3.0
+LOS-0525,Egbeda,Victoria Island,Danfo,196796,0,3200.0,240,3.0
+LOS-0526,Ikorodu,Victoria Island,Danfo,73752,0,3600.0,240,3.0
+LOS-0527,Surulere,Victoria Island,Danfo,223832,0,1800.0,120,1.5
+LOS-0528,Ikorodu,Ikeja,BRT,96719,1,1500.0,330,3.0
+LOS-0529,Ikorodu,Ikeja,Danfo,207043,0,2400.0,240,3.0
+LOS-0530,Surulere,Ikeja,BRT,73141,0,1140.0,120,1.5
+LOS-0531,Ikorodu,Ikeja,BRT,185045,0,1500.0,240,3.0
+LOS-0532,Ikorodu,Ikeja,Danfo,71149,0,2400.0,240,3.0
+LOS-0533,Ikorodu,Ikeja,BRT,769863,0,1500.0,240,3.0
+LOS-0534,Ikorodu,Ikeja,BRT,593721,0,1500.0,240,3.0
+LOS-0535,Egbeda,Victoria Island,Danfo,429362,0,3200.0,240,3.0
+LOS-0536,Surulere,Victoria Island,Private Car,709942,0,8000.0,120,1.5
+LOS-0537,Surulere,Ikeja,Private Car,540121,0,4800.0,120,1.5
+LOS-0538,Surulere,Victoria Island,Private Car,659188,1,10400.0,210,1.5
+LOS-0539,Surulere,Victoria Island,Private Car,494540,0,8000.0,120,1.5
+LOS-0540,Surulere,Victoria Island,Private Car,707067,0,8000.0,120,1.5
+LOS-0541,Ikorodu,Victoria Island,Private Car,526876,0,15600.0,240,3.0
+LOS-0542,Egbeda,Victoria Island,Private Car,359070,0,14000.0,240,3.0
+LOS-0543,Egbeda,Ikeja,Private Car,770316,0,6000.0,240,3.0
+LOS-0544,Egbeda,Ikeja,Private Car,689757,0,6000.0,240,3.0
+LOS-0545,Surulere,Ikeja,Private Car,371184,1,6240.0,210,1.5
+LOS-0546,Egbeda,Ikeja,Private Car,788515,0,6000.0,240,3.0
+LOS-0547,Surulere,Ikeja,BRT,92635,0,1140.0,120,1.5
+LOS-0548,Ikorodu,Ikeja,BRT,90646,0,1500.0,240,3.0
+LOS-0549,Egbeda,Victoria Island,Private Car,460015,0,14000.0,240,3.0
+LOS-0550,Ikorodu,Ikeja,Danfo,76957,0,2400.0,240,3.0
+LOS-0551,Egbeda,Ikeja,BRT,298412,0,900.0,240,3.0
+LOS-0552,Egbeda,Ikeja,BRT,255193,0,900.0,240,3.0
+LOS-0553,Surulere,Victoria Island,Private Car,791505,1,10400.0,210,1.5
+LOS-0554,Surulere,Victoria Island,BRT,87935,0,1140.0,120,1.5
+LOS-0555,Egbeda,Victoria Island,Private Car,596489,0,14000.0,240,3.0
+LOS-0556,Surulere,Ikeja,Danfo,266676,0,1800.0,120,1.5
+LOS-0557,Egbeda,Ikeja,Danfo,412709,0,1600.0,240,3.0
+LOS-0558,Egbeda,Victoria Island,Private Car,598197,0,14000.0,240,3.0
+LOS-0559,Egbeda,Ikeja,Danfo,220597,0,1600.0,240,3.0
+LOS-0560,Surulere,Victoria Island,Danfo,322466,1,2700.0,210,1.5
+LOS-0561,Egbeda,Ikeja,Danfo,70110,0,1600.0,240,3.0
+LOS-0562,Egbeda,Ikeja,Private Car,369797,1,7800.0,330,3.0
+LOS-0563,Surulere,Victoria Island,BRT,330884,0,1140.0,120,1.5
+LOS-0564,Surulere,Ikeja,Danfo,78052,0,1800.0,120,1.5
+LOS-0565,Ikorodu,Victoria Island,BRT,806186,1,2200.0,330,3.0
+LOS-0566,Egbeda,Ikeja,Danfo,158634,1,2400.0,330,3.0
+LOS-0567,Surulere,Ikeja,Private Car,500314,1,6240.0,210,1.5
+LOS-0568,Ikorodu,Ikeja,BRT,683470,1,1500.0,330,3.0
+LOS-0569,Ikorodu,Ikeja,Danfo,325695,1,3600.0,330,3.0
+LOS-0570,Ikorodu,Victoria Island,Danfo,382520,0,3600.0,240,3.0
+LOS-0571,Egbeda,Victoria Island,Danfo,150396,0,3200.0,240,3.0
+LOS-0572,Surulere,Ikeja,BRT,807943,1,1140.0,210,1.5
+LOS-0573,Egbeda,Victoria Island,Danfo,99911,1,4800.0,330,3.0
+LOS-0574,Egbeda,Ikeja,Private Car,791733,0,6000.0,240,3.0
+LOS-0575,Ikorodu,Victoria Island,Danfo,217389,1,5400.0,330,3.0
+LOS-0576,Egbeda,Ikeja,Private Car,557946,0,6000.0,240,3.0
+LOS-0577,Egbeda,Victoria Island,Private Car,834322,0,14000.0,240,3.0
+LOS-0578,Surulere,Ikeja,Private Car,805591,1,6240.0,210,1.5
+LOS-0579,Egbeda,Ikeja,Private Car,576279,0,6000.0,240,3.0
+LOS-0580,Surulere,Ikeja,Danfo,606761,0,1800.0,120,1.5
+LOS-0581,Ikorodu,Ikeja,Danfo,631664,0,2400.0,240,3.0
+LOS-0582,Ikorodu,Victoria Island,Danfo,74946,0,3600.0,240,3.0
+LOS-0583,Surulere,Ikeja,Private Car,834901,0,4800.0,120,1.5
+LOS-0584,Egbeda,Ikeja,Private Car,480863,0,6000.0,240,3.0
+LOS-0585,Egbeda,Ikeja,BRT,729851,1,900.0,330,3.0
+LOS-0586,Egbeda,Ikeja,BRT,684823,0,900.0,240,3.0
+LOS-0587,Surulere,Victoria Island,Private Car,391038,0,8000.0,120,1.5
+LOS-0588,Ikorodu,Ikeja,Private Car,471458,0,9600.0,240,3.0
+LOS-0589,Egbeda,Ikeja,Private Car,541272,0,6000.0,240,3.0
+LOS-0590,Ikorodu,Ikeja,BRT,690919,0,1500.0,240,3.0
+LOS-0591,Surulere,Ikeja,Private Car,727015,0,4800.0,120,1.5
+LOS-0592,Surulere,Ikeja,BRT,90278,0,1140.0,120,1.5
+LOS-0593,Surulere,Victoria Island,BRT,790489,0,1140.0,120,1.5
+LOS-0594,Surulere,Victoria Island,Danfo,211901,0,1800.0,120,1.5
+LOS-0595,Ikorodu,Ikeja,BRT,204806,0,1500.0,240,3.0
+LOS-0596,Ikorodu,Victoria Island,Danfo,812597,0,3600.0,240,3.0
+LOS-0597,Egbeda,Ikeja,BRT,549752,0,900.0,240,3.0
+LOS-0598,Ikorodu,Ikeja,BRT,686420,1,1500.0,330,3.0
+LOS-0599,Ikorodu,Ikeja,Danfo,81536,1,3600.0,330,3.0
+LOS-0600,Ikorodu,Ikeja,Private Car,584055,1,12480.0,330,3.0
+LOS-0601,Egbeda,Victoria Island,Private Car,771223,0,14000.0,240,3.0
+LOS-0602,Surulere,Victoria Island,Private Car,381139,0,8000.0,120,1.5
+LOS-0603,Egbeda,Ikeja,Private Car,466655,0,6000.0,240,3.0
+LOS-0604,Ikorodu,Ikeja,BRT,81236,0,1500.0,240,3.0
+LOS-0605,Egbeda,Ikeja,Private Car,438239,0,6000.0,240,3.0
+LOS-0606,Surulere,Ikeja,Private Car,358592,1,6240.0,210,1.5
+LOS-0607,Egbeda,Victoria Island,Private Car,653373,0,14000.0,240,3.0
+LOS-0608,Ikorodu,Ikeja,Private Car,643824,0,9600.0,240,3.0
+LOS-0609,Surulere,Ikeja,Danfo,165761,1,2700.0,210,1.5
+LOS-0610,Ikorodu,Ikeja,Private Car,334947,0,9600.0,240,3.0
+LOS-0611,Surulere,Ikeja,Private Car,518386,0,4800.0,120,1.5
+LOS-0612,Surulere,Victoria Island,Private Car,845838,0,8000.0,120,1.5
+LOS-0613,Egbeda,Ikeja,Private Car,392823,0,6000.0,240,3.0
+LOS-0614,Egbeda,Ikeja,Danfo,82671,0,1600.0,240,3.0
+LOS-0615,Ikorodu,Victoria Island,Danfo,239907,0,3600.0,240,3.0
+LOS-0616,Egbeda,Victoria Island,Danfo,95619,0,3200.0,240,3.0
+LOS-0617,Ikorodu,Ikeja,BRT,301768,0,1500.0,240,3.0
+LOS-0618,Egbeda,Ikeja,BRT,317789,1,900.0,330,3.0
+LOS-0619,Surulere,Victoria Island,BRT,81342,1,1140.0,210,1.5
+LOS-0620,Egbeda,Victoria Island,Private Car,364266,0,14000.0,240,3.0
+LOS-0621,Ikorodu,Victoria Island,Private Car,620432,0,15600.0,240,3.0
+LOS-0622,Egbeda,Ikeja,Private Car,813184,0,6000.0,240,3.0
+LOS-0623,Egbeda,Victoria Island,Danfo,84271,0,3200.0,240,3.0
+LOS-0624,Surulere,Victoria Island,BRT,75462,0,1140.0,120,1.5
+LOS-0625,Egbeda,Victoria Island,Private Car,817067,1,18200.0,330,3.0
+LOS-0626,Ikorodu,Victoria Island,BRT,228623,1,2200.0,330,3.0
+LOS-0627,Surulere,Ikeja,BRT,82616,0,1140.0,120,1.5
+LOS-0628,Ikorodu,Ikeja,BRT,81167,0,1500.0,240,3.0
+LOS-0629,Egbeda,Victoria Island,Private Car,647566,0,14000.0,240,3.0
+LOS-0630,Ikorodu,Victoria Island,Private Car,814370,0,15600.0,240,3.0
+LOS-0631,Surulere,Ikeja,Private Car,434566,0,4800.0,120,1.5
+LOS-0632,Egbeda,Victoria Island,Private Car,390973,0,14000.0,240,3.0
+LOS-0633,Ikorodu,Ikeja,Private Car,432943,0,9600.0,240,3.0
+LOS-0634,Egbeda,Ikeja,BRT,238507,0,900.0,240,3.0
+LOS-0635,Ikorodu,Ikeja,Danfo,78408,0,2400.0,240,3.0
+LOS-0636,Surulere,Ikeja,Danfo,79140,0,1800.0,120,1.5
+LOS-0637,Surulere,Ikeja,Private Car,625343,1,6240.0,210,1.5
+LOS-0638,Surulere,Ikeja,BRT,85693,0,1140.0,120,1.5
+LOS-0639,Surulere,Ikeja,Private Car,407507,0,4800.0,120,1.5
+LOS-0640,Egbeda,Ikeja,Danfo,163539,0,1600.0,240,3.0
+LOS-0641,Ikorodu,Victoria Island,BRT,73688,0,2200.0,240,3.0
+LOS-0642,Ikorodu,Victoria Island,Private Car,798173,1,20280.0,330,3.0
+LOS-0643,Ikorodu,Ikeja,Danfo,324825,0,2400.0,240,3.0
+LOS-0644,Ikorodu,Ikeja,Danfo,295249,0,2400.0,240,3.0
+LOS-0645,Ikorodu,Ikeja,BRT,229673,0,1500.0,240,3.0
+LOS-0646,Egbeda,Ikeja,Danfo,313602,0,1600.0,240,3.0
+LOS-0647,Egbeda,Ikeja,BRT,305198,0,900.0,240,3.0
+LOS-0648,Surulere,Victoria Island,Private Car,715264,0,8000.0,120,1.5
+LOS-0649,Ikorodu,Victoria Island,Private Car,831762,1,20280.0,330,3.0
+LOS-0650,Surulere,Ikeja,Danfo,95595,0,1800.0,120,1.5
+LOS-0651,Surulere,Victoria Island,BRT,844826,0,1140.0,120,1.5
+LOS-0652,Ikorodu,Victoria Island,Private Car,701311,1,20280.0,330,3.0
+LOS-0653,Egbeda,Ikeja,BRT,317242,0,900.0,240,3.0
+LOS-0654,Egbeda,Victoria Island,BRT,751748,1,1960.0,330,3.0
+LOS-0655,Ikorodu,Ikeja,Private Car,550052,0,9600.0,240,3.0
+LOS-0656,Egbeda,Victoria Island,Danfo,212375,0,3200.0,240,3.0
+LOS-0657,Egbeda,Ikeja,Private Car,549350,0,6000.0,240,3.0
+LOS-0658,Egbeda,Victoria Island,Private Car,663549,0,14000.0,240,3.0
+LOS-0659,Egbeda,Victoria Island,Private Car,364799,1,18200.0,330,3.0
+LOS-0660,Egbeda,Ikeja,BRT,240342,0,900.0,240,3.0
+LOS-0661,Egbeda,Victoria Island,Danfo,92693,0,3200.0,240,3.0
+LOS-0662,Surulere,Ikeja,Private Car,703297,0,4800.0,120,1.5
+LOS-0663,Ikorodu,Ikeja,Private Car,397398,0,9600.0,240,3.0
+LOS-0664,Ikorodu,Ikeja,Private Car,417094,1,12480.0,330,3.0
+LOS-0665,Ikorodu,Ikeja,BRT,240911,0,1500.0,240,3.0
+LOS-0666,Surulere,Victoria Island,BRT,74519,0,1140.0,120,1.5
+LOS-0667,Egbeda,Ikeja,Danfo,518555,0,1600.0,240,3.0
+LOS-0668,Ikorodu,Victoria Island,Private Car,394676,0,15600.0,240,3.0
+LOS-0669,Ikorodu,Victoria Island,Private Car,515154,0,15600.0,240,3.0
+LOS-0670,Ikorodu,Ikeja,Private Car,235444,0,9600.0,240,3.0
+LOS-0671,Ikorodu,Victoria Island,BRT,342361,0,2200.0,240,3.0
+LOS-0672,Ikorodu,Victoria Island,BRT,78801,0,2200.0,240,3.0
+LOS-0673,Egbeda,Ikeja,BRT,382459,0,900.0,240,3.0
+LOS-0674,Surulere,Ikeja,Private Car,284222,0,4800.0,120,1.5
+LOS-0675,Ikorodu,Ikeja,Private Car,678074,0,9600.0,240,3.0
+LOS-0676,Ikorodu,Victoria Island,Danfo,396859,0,3600.0,240,3.0
+LOS-0677,Ikorodu,Victoria Island,Private Car,449807,0,15600.0,240,3.0
+LOS-0678,Surulere,Victoria Island,Private Car,470878,0,8000.0,120,1.5
+LOS-0679,Ikorodu,Victoria Island,Danfo,85871,0,3600.0,240,3.0
+LOS-0680,Ikorodu,Ikeja,BRT,709958,0,1500.0,240,3.0
+LOS-0681,Surulere,Victoria Island,Private Car,806000,0,8000.0,120,1.5
+LOS-0682,Egbeda,Victoria Island,BRT,89060,0,1960.0,240,3.0
+LOS-0683,Egbeda,Victoria Island,Danfo,77131,1,4800.0,330,3.0
+LOS-0684,Egbeda,Victoria Island,Danfo,188019,0,3200.0,240,3.0
+LOS-0685,Surulere,Victoria Island,Danfo,830539,0,1800.0,120,1.5
+LOS-0686,Egbeda,Victoria Island,Danfo,268355,0,3200.0,240,3.0
+LOS-0687,Egbeda,Ikeja,BRT,655379,0,900.0,240,3.0
+LOS-0688,Surulere,Ikeja,Danfo,93112,0,1800.0,120,1.5
+LOS-0689,Ikorodu,Ikeja,Danfo,95214,0,2400.0,240,3.0
+LOS-0690,Surulere,Ikeja,BRT,327375,1,1140.0,210,1.5
+LOS-0691,Surulere,Victoria Island,BRT,184047,0,1140.0,120,1.5
+LOS-0692,Ikorodu,Victoria Island,BRT,335289,1,2200.0,330,3.0
+LOS-0693,Egbeda,Victoria Island,BRT,70907,0,1960.0,240,3.0
+LOS-0694,Egbeda,Ikeja,Danfo,75672,0,1600.0,240,3.0
+LOS-0695,Ikorodu,Ikeja,Private Car,804413,0,9600.0,240,3.0
+LOS-0696,Ikorodu,Victoria Island,Danfo,553532,0,3600.0,240,3.0
+LOS-0697,Surulere,Victoria Island,Private Car,558778,0,8000.0,120,1.5
+LOS-0698,Ikorodu,Victoria Island,BRT,492853,0,2200.0,240,3.0
+LOS-0699,Ikorodu,Victoria Island,Private Car,579266,1,20280.0,330,3.0
+LOS-0700,Egbeda,Ikeja,BRT,610548,0,900.0,240,3.0
+LOS-0701,Egbeda,Victoria Island,Danfo,77010,0,3200.0,240,3.0
+LOS-0702,Surulere,Ikeja,Danfo,95204,0,1800.0,120,1.5
+LOS-0703,Ikorodu,Victoria Island,Danfo,323811,0,3600.0,240,3.0
+LOS-0704,Surulere,Victoria Island,Private Car,585479,0,8000.0,120,1.5
+LOS-0705,Egbeda,Ikeja,Danfo,253557,0,1600.0,240,3.0
+LOS-0706,Egbeda,Victoria Island,BRT,86284,0,1960.0,240,3.0
+LOS-0707,Surulere,Victoria Island,Private Car,677597,0,8000.0,120,1.5
+LOS-0708,Ikorodu,Ikeja,Private Car,662677,0,9600.0,240,3.0
+LOS-0709,Egbeda,Ikeja,Private Car,458243,0,6000.0,240,3.0
+LOS-0710,Ikorodu,Ikeja,Danfo,175831,0,2400.0,240,3.0
+LOS-0711,Surulere,Victoria Island,Danfo,158644,0,1800.0,120,1.5
+LOS-0712,Surulere,Ikeja,Danfo,75325,1,2700.0,210,1.5
+LOS-0713,Egbeda,Ikeja,Danfo,189214,0,1600.0,240,3.0
+LOS-0714,Egbeda,Victoria Island,BRT,338716,1,1960.0,330,3.0
+LOS-0715,Egbeda,Ikeja,BRT,79846,0,900.0,240,3.0
+LOS-0716,Surulere,Ikeja,BRT,282112,0,1140.0,120,1.5
+LOS-0717,Egbeda,Victoria Island,Danfo,248041,1,4800.0,330,3.0
+LOS-0718,Egbeda,Victoria Island,Private Car,305719,0,14000.0,240,3.0
+LOS-0719,Surulere,Ikeja,Danfo,306384,0,1800.0,120,1.5
+LOS-0720,Egbeda,Ikeja,BRT,310380,1,900.0,330,3.0
+LOS-0721,Egbeda,Victoria Island,BRT,610928,0,1960.0,240,3.0
+LOS-0722,Ikorodu,Victoria Island,Private Car,662569,0,15600.0,240,3.0
+LOS-0723,Egbeda,Victoria Island,Danfo,189874,1,4800.0,330,3.0
+LOS-0724,Egbeda,Ikeja,Danfo,82387,0,1600.0,240,3.0
+LOS-0725,Surulere,Ikeja,Private Car,648910,0,4800.0,120,1.5
+LOS-0726,Ikorodu,Victoria Island,Private Car,760566,0,15600.0,240,3.0
+LOS-0727,Surulere,Ikeja,BRT,841436,1,1140.0,210,1.5
+LOS-0728,Ikorodu,Victoria Island,Private Car,371332,1,20280.0,330,3.0
+LOS-0729,Ikorodu,Ikeja,Danfo,83782,0,2400.0,240,3.0
+LOS-0730,Surulere,Victoria Island,Private Car,581783,0,8000.0,120,1.5
+LOS-0731,Ikorodu,Victoria Island,Danfo,710610,1,5400.0,330,3.0
+LOS-0732,Ikorodu,Ikeja,BRT,97896,0,1500.0,240,3.0
+LOS-0733,Egbeda,Ikeja,Private Car,503778,0,6000.0,240,3.0
+LOS-0734,Egbeda,Victoria Island,BRT,443230,0,1960.0,240,3.0
+LOS-0735,Egbeda,Victoria Island,Private Car,521630,0,14000.0,240,3.0
+LOS-0736,Egbeda,Ikeja,Danfo,76138,0,1600.0,240,3.0
+LOS-0737,Surulere,Victoria Island,Private Car,598468,1,10400.0,210,1.5
+LOS-0738,Surulere,Victoria Island,BRT,93794,1,1140.0,210,1.5
+LOS-0739,Egbeda,Ikeja,Danfo,168413,0,1600.0,240,3.0
+LOS-0740,Surulere,Ikeja,BRT,791738,0,1140.0,120,1.5
+LOS-0741,Surulere,Victoria Island,Private Car,446358,0,8000.0,120,1.5
+LOS-0742,Surulere,Victoria Island,BRT,530602,1,1140.0,210,1.5
+LOS-0743,Surulere,Victoria Island,BRT,343274,1,1140.0,210,1.5
+LOS-0744,Surulere,Victoria Island,BRT,82457,1,1140.0,210,1.5
+LOS-0745,Egbeda,Ikeja,Private Car,503012,0,6000.0,240,3.0
+LOS-0746,Egbeda,Ikeja,Private Car,557368,0,6000.0,240,3.0
+LOS-0747,Surulere,Ikeja,Private Car,498251,0,4800.0,120,1.5
+LOS-0748,Surulere,Ikeja,Danfo,78096,1,2700.0,210,1.5
+LOS-0749,Surulere,Ikeja,Private Car,845984,0,4800.0,120,1.5
+LOS-0750,Egbeda,Victoria Island,Private Car,476186,0,14000.0,240,3.0
+LOS-0751,Surulere,Ikeja,Danfo,286458,1,2700.0,210,1.5
+LOS-0752,Egbeda,Ikeja,Danfo,85332,0,1600.0,240,3.0
+LOS-0753,Surulere,Ikeja,Private Car,363643,0,4800.0,120,1.5
+LOS-0754,Ikorodu,Victoria Island,Danfo,200370,1,5400.0,330,3.0
+LOS-0755,Egbeda,Ikeja,BRT,331790,0,900.0,240,3.0
+LOS-0756,Ikorodu,Victoria Island,Danfo,92191,0,3600.0,240,3.0
+LOS-0757,Surulere,Victoria Island,BRT,90730,0,1140.0,120,1.5
+LOS-0758,Ikorodu,Victoria Island,BRT,375732,0,2200.0,240,3.0
+LOS-0759,Egbeda,Victoria Island,Private Car,727978,0,14000.0,240,3.0
+LOS-0760,Surulere,Ikeja,Private Car,365250,0,4800.0,120,1.5
+LOS-0761,Egbeda,Victoria Island,Private Car,582908,0,14000.0,240,3.0
+LOS-0762,Egbeda,Ikeja,Private Car,640594,0,6000.0,240,3.0
+LOS-0763,Surulere,Victoria Island,Private Car,371515,0,8000.0,120,1.5
+LOS-0764,Surulere,Ikeja,Private Car,345974,0,4800.0,120,1.5
+LOS-0765,Surulere,Ikeja,Danfo,75915,0,1800.0,120,1.5
+LOS-0766,Ikorodu,Ikeja,Private Car,516036,1,12480.0,330,3.0
+LOS-0767,Ikorodu,Ikeja,Private Car,389236,0,9600.0,240,3.0
+LOS-0768,Surulere,Ikeja,BRT,745120,0,1140.0,120,1.5
+LOS-0769,Egbeda,Ikeja,Private Car,372895,0,6000.0,240,3.0
+LOS-0770,Surulere,Victoria Island,Private Car,538280,0,8000.0,120,1.5
+LOS-0771,Ikorodu,Victoria Island,Danfo,84940,1,5400.0,330,3.0
+LOS-0772,Ikorodu,Victoria Island,Danfo,76365,1,5400.0,330,3.0
+LOS-0773,Egbeda,Ikeja,Private Car,379895,0,6000.0,240,3.0
+LOS-0774,Ikorodu,Victoria Island,Private Car,776380,0,15600.0,240,3.0
+LOS-0775,Ikorodu,Ikeja,Private Car,427419,0,9600.0,240,3.0
+LOS-0776,Ikorodu,Ikeja,Private Car,539106,0,9600.0,240,3.0
+LOS-0777,Surulere,Ikeja,Danfo,357421,0,1800.0,120,1.5
+LOS-0778,Surulere,Ikeja,Private Car,357856,0,4800.0,120,1.5
+LOS-0779,Egbeda,Victoria Island,Private Car,778723,0,14000.0,240,3.0
+LOS-0780,Ikorodu,Ikeja,Private Car,724000,0,9600.0,240,3.0
+LOS-0781,Surulere,Ikeja,Private Car,837728,0,4800.0,120,1.5
+LOS-0782,Egbeda,Victoria Island,Danfo,529677,0,3200.0,240,3.0
+LOS-0783,Ikorodu,Victoria Island,Danfo,245859,1,5400.0,330,3.0
+LOS-0784,Surulere,Ikeja,Danfo,660283,0,1800.0,120,1.5
+LOS-0785,Egbeda,Ikeja,Danfo,188352,0,1600.0,240,3.0
+LOS-0786,Egbeda,Victoria Island,Danfo,153469,0,3200.0,240,3.0
+LOS-0787,Egbeda,Ikeja,Private Car,656889,0,6000.0,240,3.0
+LOS-0788,Surulere,Victoria Island,BRT,261215,0,1140.0,120,1.5
+LOS-0789,Surulere,Ikeja,Private Car,693258,0,4800.0,120,1.5
+LOS-0790,Surulere,Ikeja,Private Car,692482,0,4800.0,120,1.5
+LOS-0791,Ikorodu,Ikeja,Private Car,586990,1,12480.0,330,3.0
+LOS-0792,Surulere,Ikeja,Danfo,255182,0,1800.0,120,1.5
+LOS-0793,Ikorodu,Ikeja,Danfo,243819,0,2400.0,240,3.0
+LOS-0794,Ikorodu,Victoria Island,Danfo,85311,0,3600.0,240,3.0
+LOS-0795,Ikorodu,Victoria Island,Private Car,833608,0,15600.0,240,3.0
+LOS-0796,Ikorodu,Victoria Island,BRT,730500,0,2200.0,240,3.0
+LOS-0797,Egbeda,Ikeja,Private Car,509364,0,6000.0,240,3.0
+LOS-0798,Surulere,Victoria Island,BRT,187357,0,1140.0,120,1.5
+LOS-0799,Egbeda,Ikeja,BRT,349673,0,900.0,240,3.0
+LOS-0800,Ikorodu,Ikeja,Private Car,506155,0,9600.0,240,3.0
+LOS-0801,Surulere,Ikeja,BRT,643076,1,1140.0,210,1.5
+LOS-0802,Surulere,Victoria Island,BRT,804996,0,1140.0,120,1.5
+LOS-0803,Ikorodu,Victoria Island,Danfo,87240,0,3600.0,240,3.0
+LOS-0804,Ikorodu,Victoria Island,Private Car,661714,1,20280.0,330,3.0
+LOS-0805,Egbeda,Victoria Island,Private Car,497510,1,18200.0,330,3.0
+LOS-0806,Surulere,Ikeja,Private Car,407200,0,4800.0,120,1.5
+LOS-0807,Egbeda,Victoria Island,Private Car,558113,0,14000.0,240,3.0
+LOS-0808,Surulere,Victoria Island,Private Car,535390,0,8000.0,120,1.5
+LOS-0809,Egbeda,Victoria Island,BRT,76534,1,1960.0,330,3.0
+LOS-0810,Surulere,Victoria Island,BRT,282815,0,1140.0,120,1.5
+LOS-0811,Ikorodu,Victoria Island,Danfo,86339,0,3600.0,240,3.0
+LOS-0812,Egbeda,Ikeja,Private Car,408427,0,6000.0,240,3.0
+LOS-0813,Surulere,Victoria Island,BRT,304974,1,1140.0,210,1.5
+LOS-0814,Egbeda,Ikeja,Private Car,510560,0,6000.0,240,3.0
+LOS-0815,Egbeda,Ikeja,Danfo,756270,0,1600.0,240,3.0
+LOS-0816,Egbeda,Victoria Island,Private Car,453505,0,14000.0,240,3.0
+LOS-0817,Surulere,Victoria Island,Danfo,559987,0,1800.0,120,1.5
+LOS-0818,Egbeda,Ikeja,Private Car,653822,0,6000.0,240,3.0
+LOS-0819,Egbeda,Ikeja,Private Car,779195,0,6000.0,240,3.0
+LOS-0820,Egbeda,Ikeja,Private Car,434375,1,7800.0,330,3.0
+LOS-0821,Ikorodu,Victoria Island,BRT,245771,0,2200.0,240,3.0
+LOS-0822,Surulere,Victoria Island,Private Car,472508,0,8000.0,120,1.5
+LOS-0823,Ikorodu,Ikeja,BRT,532046,0,1500.0,240,3.0
+LOS-0824,Egbeda,Victoria Island,Danfo,335282,0,3200.0,240,3.0
+LOS-0825,Ikorodu,Ikeja,BRT,623948,0,1500.0,240,3.0
+LOS-0826,Ikorodu,Victoria Island,Danfo,689442,0,3600.0,240,3.0
+LOS-0827,Egbeda,Ikeja,Danfo,499219,0,1600.0,240,3.0
+LOS-0828,Surulere,Victoria Island,Danfo,724110,0,1800.0,120,1.5
+LOS-0829,Ikorodu,Victoria Island,Danfo,609075,0,3600.0,240,3.0
+LOS-0830,Egbeda,Victoria Island,Private Car,700717,0,14000.0,240,3.0
+LOS-0831,Egbeda,Victoria Island,BRT,89618,0,1960.0,240,3.0
+LOS-0832,Ikorodu,Ikeja,Private Car,494662,0,9600.0,240,3.0
+LOS-0833,Ikorodu,Victoria Island,Private Car,706912,0,15600.0,240,3.0
+LOS-0834,Egbeda,Ikeja,Private Car,804779,0,6000.0,240,3.0
+LOS-0835,Ikorodu,Ikeja,Danfo,80364,0,2400.0,240,3.0
+LOS-0836,Ikorodu,Ikeja,Private Car,477977,0,9600.0,240,3.0
+LOS-0837,Surulere,Ikeja,Private Car,493325,0,4800.0,120,1.5
+LOS-0838,Egbeda,Victoria Island,Private Car,537191,1,18200.0,330,3.0
+LOS-0839,Surulere,Ikeja,Danfo,70385,1,2700.0,210,1.5
+LOS-0840,Ikorodu,Victoria Island,BRT,84887,0,2200.0,240,3.0
+LOS-0841,Surulere,Ikeja,Private Car,655567,0,4800.0,120,1.5
+LOS-0842,Surulere,Victoria Island,BRT,73408,0,1140.0,120,1.5
+LOS-0843,Surulere,Victoria Island,BRT,88637,0,1140.0,120,1.5
+LOS-0844,Ikorodu,Victoria Island,Danfo,254821,0,3600.0,240,3.0
+LOS-0845,Egbeda,Victoria Island,Danfo,463467,1,4800.0,330,3.0
+LOS-0846,Ikorodu,Ikeja,BRT,85523,0,1500.0,240,3.0
+LOS-0847,Egbeda,Victoria Island,Private Car,449831,0,14000.0,240,3.0
+LOS-0848,Surulere,Victoria Island,BRT,476512,0,1140.0,120,1.5
+LOS-0849,Surulere,Ikeja,Danfo,205391,0,1800.0,120,1.5
+LOS-0850,Surulere,Victoria Island,BRT,71989,0,1140.0,120,1.5
+LOS-0851,Surulere,Victoria Island,Private Car,814620,1,10400.0,210,1.5
+LOS-0852,Egbeda,Ikeja,Private Car,617242,0,6000.0,240,3.0
+LOS-0853,Egbeda,Ikeja,Danfo,71806,0,1600.0,240,3.0
+LOS-0854,Ikorodu,Victoria Island,Danfo,340109,1,5400.0,330,3.0
+LOS-0855,Surulere,Victoria Island,Private Car,551191,0,8000.0,120,1.5
+LOS-0856,Egbeda,Victoria Island,Danfo,88525,0,3200.0,240,3.0
+LOS-0857,Ikorodu,Victoria Island,Private Car,753211,0,15600.0,240,3.0
+LOS-0858,Surulere,Victoria Island,Private Car,696096,0,8000.0,120,1.5
+LOS-0859,Egbeda,Victoria Island,BRT,707376,1,1960.0,330,3.0
+LOS-0860,Surulere,Ikeja,Private Car,670480,1,6240.0,210,1.5
+LOS-0861,Ikorodu,Victoria Island,Private Car,221646,1,20280.0,330,3.0
+LOS-0862,Surulere,Ikeja,BRT,259954,1,1140.0,210,1.5
+LOS-0863,Ikorodu,Ikeja,BRT,720367,1,1500.0,330,3.0
+LOS-0864,Ikorodu,Ikeja,BRT,326262,0,1500.0,240,3.0
+LOS-0865,Surulere,Victoria Island,Danfo,263527,1,2700.0,210,1.5
+LOS-0866,Egbeda,Ikeja,Danfo,330653,1,2400.0,330,3.0
+LOS-0867,Egbeda,Victoria Island,Danfo,80444,0,3200.0,240,3.0
+LOS-0868,Surulere,Ikeja,Private Car,531834,0,4800.0,120,1.5
+LOS-0869,Surulere,Ikeja,Private Car,434248,0,4800.0,120,1.5
+LOS-0870,Surulere,Ikeja,Private Car,805547,0,4800.0,120,1.5
+LOS-0871,Egbeda,Ikeja,Danfo,668462,0,1600.0,240,3.0
+LOS-0872,Ikorodu,Victoria Island,Danfo,236025,1,5400.0,330,3.0
+LOS-0873,Surulere,Ikeja,Danfo,258195,1,2700.0,210,1.5
+LOS-0874,Ikorodu,Victoria Island,Danfo,381778,0,3600.0,240,3.0
+LOS-0875,Ikorodu,Ikeja,Danfo,98027,0,2400.0,240,3.0
+LOS-0876,Egbeda,Victoria Island,BRT,152557,1,1960.0,330,3.0
+LOS-0877,Ikorodu,Ikeja,Danfo,174659,0,2400.0,240,3.0
+LOS-0878,Ikorodu,Victoria Island,Danfo,324299,0,3600.0,240,3.0
+LOS-0879,Egbeda,Ikeja,Private Car,757219,0,6000.0,240,3.0
+LOS-0880,Surulere,Victoria Island,BRT,77844,0,1140.0,120,1.5
+LOS-0881,Egbeda,Victoria Island,BRT,326271,0,1960.0,240,3.0
+LOS-0882,Surulere,Ikeja,Danfo,71654,0,1800.0,120,1.5
+LOS-0883,Surulere,Victoria Island,BRT,303803,0,1140.0,120,1.5
+LOS-0884,Egbeda,Ikeja,Private Car,797039,0,6000.0,240,3.0
+LOS-0885,Ikorodu,Ikeja,Private Car,737981,1,12480.0,330,3.0
+LOS-0886,Egbeda,Ikeja,Danfo,504759,0,1600.0,240,3.0
+LOS-0887,Surulere,Victoria Island,BRT,348735,0,1140.0,120,1.5
+LOS-0888,Ikorodu,Victoria Island,Danfo,85899,0,3600.0,240,3.0
+LOS-0889,Ikorodu,Victoria Island,Danfo,389377,0,3600.0,240,3.0
+LOS-0890,Surulere,Victoria Island,Private Car,591868,0,8000.0,120,1.5
+LOS-0891,Ikorodu,Ikeja,Private Car,376219,0,9600.0,240,3.0
+LOS-0892,Egbeda,Victoria Island,Danfo,331886,0,3200.0,240,3.0
+LOS-0893,Egbeda,Ikeja,BRT,73647,1,900.0,330,3.0
+LOS-0894,Egbeda,Victoria Island,Private Car,640047,0,14000.0,240,3.0
+LOS-0895,Egbeda,Victoria Island,BRT,77935,1,1960.0,330,3.0
+LOS-0896,Egbeda,Victoria Island,BRT,543820,0,1960.0,240,3.0
+LOS-0897,Ikorodu,Victoria Island,Private Car,639474,0,15600.0,240,3.0
+LOS-0898,Ikorodu,Victoria Island,Private Car,437742,0,15600.0,240,3.0
+LOS-0899,Surulere,Ikeja,Danfo,161179,0,1800.0,120,1.5
+LOS-0900,Surulere,Ikeja,Private Car,630916,1,6240.0,210,1.5
+LOS-0901,Egbeda,Victoria Island,BRT,508350,0,1960.0,240,3.0
+LOS-0902,Egbeda,Ikeja,BRT,217273,0,900.0,240,3.0
+LOS-0903,Surulere,Victoria Island,Private Car,430506,0,8000.0,120,1.5
+LOS-0904,Ikorodu,Ikeja,Danfo,332724,0,2400.0,240,3.0
+LOS-0905,Egbeda,Victoria Island,Danfo,639033,1,4800.0,330,3.0
+LOS-0906,Surulere,Victoria Island,Danfo,71391,0,1800.0,120,1.5
+LOS-0907,Surulere,Victoria Island,Danfo,80094,1,2700.0,210,1.5
+LOS-0908,Egbeda,Victoria Island,Private Car,677331,1,18200.0,330,3.0
+LOS-0909,Surulere,Ikeja,Danfo,177219,0,1800.0,120,1.5
+LOS-0910,Surulere,Victoria Island,Private Car,279164,0,8000.0,120,1.5
+LOS-0911,Surulere,Victoria Island,Danfo,90943,0,1800.0,120,1.5
+LOS-0912,Egbeda,Ikeja,Danfo,220569,0,1600.0,240,3.0
+LOS-0913,Egbeda,Victoria Island,Private Car,522564,0,14000.0,240,3.0
+LOS-0914,Egbeda,Victoria Island,BRT,85645,0,1960.0,240,3.0
+LOS-0915,Egbeda,Victoria Island,Private Car,586380,0,14000.0,240,3.0
+LOS-0916,Surulere,Ikeja,Danfo,158828,0,1800.0,120,1.5
+LOS-0917,Ikorodu,Victoria Island,Danfo,85175,0,3600.0,240,3.0
+LOS-0918,Surulere,Victoria Island,Private Car,363177,0,8000.0,120,1.5
+LOS-0919,Egbeda,Ikeja,BRT,681304,0,900.0,240,3.0
+LOS-0920,Egbeda,Ikeja,BRT,617445,0,900.0,240,3.0
+LOS-0921,Egbeda,Victoria Island,Danfo,74871,1,4800.0,330,3.0
+LOS-0922,Ikorodu,Victoria Island,Danfo,88528,0,3600.0,240,3.0
+LOS-0923,Surulere,Ikeja,BRT,284208,0,1140.0,120,1.5
+LOS-0924,Surulere,Ikeja,Private Car,450590,0,4800.0,120,1.5
+LOS-0925,Ikorodu,Victoria Island,Private Car,738524,0,15600.0,240,3.0
+LOS-0926,Ikorodu,Ikeja,Private Car,568417,0,9600.0,240,3.0
+LOS-0927,Egbeda,Victoria Island,Danfo,88339,0,3200.0,240,3.0
+LOS-0928,Ikorodu,Ikeja,BRT,396408,0,1500.0,240,3.0
+LOS-0929,Surulere,Ikeja,BRT,339421,0,1140.0,120,1.5
+LOS-0930,Surulere,Victoria Island,Private Car,792261,1,10400.0,210,1.5
+LOS-0931,Surulere,Ikeja,Private Car,690660,1,6240.0,210,1.5
+LOS-0932,Ikorodu,Victoria Island,BRT,79137,0,2200.0,240,3.0
+LOS-0933,Egbeda,Victoria Island,BRT,77861,1,1960.0,330,3.0
+LOS-0934,Egbeda,Victoria Island,Private Car,268924,1,18200.0,330,3.0
+LOS-0935,Egbeda,Ikeja,BRT,394280,1,900.0,330,3.0
+LOS-0936,Egbeda,Ikeja,Private Car,473883,1,7800.0,330,3.0
+LOS-0937,Egbeda,Ikeja,Danfo,295864,1,2400.0,330,3.0
+LOS-0938,Surulere,Victoria Island,Private Car,755177,0,8000.0,120,1.5
+LOS-0939,Ikorodu,Victoria Island,BRT,685992,0,2200.0,240,3.0
+LOS-0940,Ikorodu,Victoria Island,Danfo,76741,1,5400.0,330,3.0
+LOS-0941,Surulere,Victoria Island,BRT,266959,0,1140.0,120,1.5
+LOS-0942,Ikorodu,Ikeja,BRT,509319,0,1500.0,240,3.0
+LOS-0943,Surulere,Victoria Island,BRT,372874,0,1140.0,120,1.5
+LOS-0944,Ikorodu,Victoria Island,Private Car,668537,1,20280.0,330,3.0
+LOS-0945,Surulere,Victoria Island,Private Car,219477,0,8000.0,120,1.5
+LOS-0946,Ikorodu,Ikeja,Private Car,506764,0,9600.0,240,3.0
+LOS-0947,Surulere,Ikeja,BRT,322700,0,1140.0,120,1.5
+LOS-0948,Egbeda,Ikeja,BRT,678501,0,900.0,240,3.0
+LOS-0949,Ikorodu,Ikeja,Private Car,165597,1,12480.0,330,3.0
+LOS-0950,Surulere,Victoria Island,Private Car,686460,0,8000.0,120,1.5
+LOS-0951,Ikorodu,Victoria Island,Danfo,84549,0,3600.0,240,3.0
+LOS-0952,Ikorodu,Ikeja,Danfo,74479,1,3600.0,330,3.0
+LOS-0953,Egbeda,Ikeja,BRT,215255,0,900.0,240,3.0
+LOS-0954,Surulere,Victoria Island,BRT,79495,0,1140.0,120,1.5
+LOS-0955,Ikorodu,Ikeja,Private Car,523007,0,9600.0,240,3.0
+LOS-0956,Egbeda,Victoria Island,Private Car,621536,0,14000.0,240,3.0
+LOS-0957,Surulere,Victoria Island,Danfo,786460,0,1800.0,120,1.5
+LOS-0958,Surulere,Ikeja,Danfo,96460,0,1800.0,120,1.5
+LOS-0959,Ikorodu,Ikeja,Private Car,612835,0,9600.0,240,3.0
+LOS-0960,Egbeda,Ikeja,Private Car,358466,0,6000.0,240,3.0
+LOS-0961,Surulere,Victoria Island,Danfo,90899,1,2700.0,210,1.5
+LOS-0962,Ikorodu,Victoria Island,Danfo,74983,0,3600.0,240,3.0
+LOS-0963,Ikorodu,Victoria Island,Danfo,197989,0,3600.0,240,3.0
+LOS-0964,Egbeda,Ikeja,BRT,79941,1,900.0,330,3.0
+LOS-0965,Ikorodu,Victoria Island,Danfo,279536,1,5400.0,330,3.0
+LOS-0966,Ikorodu,Ikeja,Private Car,426006,0,9600.0,240,3.0
+LOS-0967,Egbeda,Ikeja,Danfo,243463,0,1600.0,240,3.0
+LOS-0968,Ikorodu,Victoria Island,BRT,657160,0,2200.0,240,3.0
+LOS-0969,Ikorodu,Ikeja,Danfo,266809,0,2400.0,240,3.0
+LOS-0970,Egbeda,Ikeja,Danfo,96697,0,1600.0,240,3.0
+LOS-0971,Surulere,Ikeja,Private Car,720636,1,6240.0,210,1.5
+LOS-0972,Egbeda,Victoria Island,Private Car,726022,0,14000.0,240,3.0
+LOS-0973,Surulere,Ikeja,Private Car,683871,0,4800.0,120,1.5
+LOS-0974,Ikorodu,Ikeja,Private Car,540771,0,9600.0,240,3.0
+LOS-0975,Ikorodu,Ikeja,Danfo,96435,0,2400.0,240,3.0
+LOS-0976,Ikorodu,Ikeja,BRT,151911,0,1500.0,240,3.0
+LOS-0977,Ikorodu,Victoria Island,Private Car,608053,0,15600.0,240,3.0
+LOS-0978,Surulere,Victoria Island,Private Car,372982,1,10400.0,210,1.5
+LOS-0979,Egbeda,Ikeja,Danfo,275202,0,1600.0,240,3.0
+LOS-0980,Egbeda,Victoria Island,Danfo,74507,0,3200.0,240,3.0
+LOS-0981,Egbeda,Victoria Island,Private Car,545991,0,14000.0,240,3.0
+LOS-0982,Surulere,Ikeja,Danfo,340812,0,1800.0,120,1.5
+LOS-0983,Surulere,Ikeja,Danfo,294676,1,2700.0,210,1.5
+LOS-0984,Ikorodu,Ikeja,Private Car,844900,0,9600.0,240,3.0
+LOS-0985,Egbeda,Victoria Island,Danfo,81903,0,3200.0,240,3.0
+LOS-0986,Surulere,Ikeja,Private Car,648605,0,4800.0,120,1.5
+LOS-0987,Egbeda,Ikeja,Danfo,317002,0,1600.0,240,3.0
+LOS-0988,Egbeda,Victoria Island,Danfo,798057,1,4800.0,330,3.0
+LOS-0989,Egbeda,Victoria Island,BRT,620391,0,1960.0,240,3.0
+LOS-0990,Egbeda,Victoria Island,BRT,838180,0,1960.0,240,3.0
+LOS-0991,Egbeda,Victoria Island,BRT,213865,0,1960.0,240,3.0
+LOS-0992,Surulere,Ikeja,Private Car,843711,0,4800.0,120,1.5
+LOS-0993,Ikorodu,Ikeja,BRT,246173,0,1500.0,240,3.0
+LOS-0994,Ikorodu,Ikeja,Private Car,388354,1,12480.0,330,3.0
+LOS-0995,Ikorodu,Victoria Island,Danfo,163018,0,3600.0,240,3.0
+LOS-0996,Egbeda,Ikeja,BRT,326929,0,900.0,240,3.0
+LOS-0997,Surulere,Victoria Island,Private Car,410383,1,10400.0,210,1.5
+LOS-0998,Ikorodu,Ikeja,Private Car,601295,0,9600.0,240,3.0
+LOS-0999,Egbeda,Ikeja,Danfo,840210,0,1600.0,240,3.0

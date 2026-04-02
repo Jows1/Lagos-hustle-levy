@@ -1,0 +1,42 @@
+/* Custom Dark Theme for Lagos Commute Tax */
+.main {
+    background-color: #0E1117;
+    color: #FAFAFA;
+}
+
+/* Professional Metric Cards */
+.metric-card {
+    background-color: #161B22;
+    border: 1px solid #30363D;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.metric-label {
+    font-size: 14px;
+    color: #8B949E;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.metric-value {
+    font-size: 32px;
+    font-weight: 700;
+    color: #FF4B4B; /* "Pain" Red */
+    margin: 10px 0;
+}
+
+.metric-sub {
+    font-size: 12px;
+    color: #3FB950; /* Success Green */
+}
+
+/* Persona Spotlight Box */
+.persona-box {
+    background: linear-gradient(145deg, #1e252e, #161b22);
+    border-left: 5px solid #FF4B4B;
+    padding: 25px;
+    border-radius: 8px;
+}
