@@ -1,13 +1,13 @@
 # The Lagos Hustle Levy Index
 **Quantifying the hidden economic cost of the Lagos commute.**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link-here.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lagos-hustle-levy-jows.streamlit.app/)
 
 ## 📌 Overview
 Lagosians don't just pay for transport with Naira; they pay with **time, health, and potential.** The **Lagos Hustle Levy** is a data-driven dashboard that calculates the "True Economic Value" of a worker's salary after accounting for the "Invisible Tax" of traffic. It exposes how a ₦400k salary can effectively function like a ₦150k salary when the cost of the "hustle" is factored in.
 
 ## 🚀 Features
-* **Hustle Levy Calculator:** Real-time analysis of income loss based on commute routes (Ikorodu, Ajah, Alimosho, etc.).
+* **Hustle Levy Calculator:** Real-time analysis of income loss based on commute routes (Ikorodu, Surulere, Egbeda/Ipaja, etc.).
 * **The Human Cost (Impact Analysis):** A personalized look at how specific personas (like Abike or Emeka) lose up to 60% of their economic value.
 * **Interactive Visualizations:** Comparative analysis of transport modes (Danfo, BRT, Private Car) vs. Time Theft.
 * **Dark Mode Aesthetic:** Designed for high-impact storytelling and readability.
